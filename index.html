@@ -31,7 +31,7 @@
   <![endif]-->
 </head>
 
-<body>
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
 
   <!-- Fixed navbar -->
   <nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
@@ -88,5 +88,14 @@
   <script src="./bootstrap/js/bootstrap.min.js"></script>
   <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
   <script src="./bootstrap/js/ie10-viewport-bug-workaround.js"></script>
+  <script>
+  var offset = 60;
+
+  $('.navbar li a').click(function(event) {
+      event.preventDefault();
+      $($(this).attr('href'))[0].scrollIntoView();
+      scrollBy(0, -offset);
+  });
+  </script>
 </body>
 </html>
