@@ -1,0 +1,423 @@
+#EXTM3U
+#EXTINF:-1, [COLOR purple]sarangmarket.tistory.com[/COLOR]
+http://0.0.0.0:1234
+#EXTM3U
+#EXTINF:-1, [COLOR purple]Update : 2017.05.17[/COLOR]
+http://0.0.0.0:1234
+#EXTM3U
+#EXTINF:-1, [COLOR purple]Ver : 6.1.2[/COLOR]
+http://0.0.0.0:1234
+#EXTM3U
+#EXTINF:-1, [COLOR purple]Ch : 190[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, [UHD] 1HD
+http://rtmp.one.by:1400/
+
+#EXTINF:-1, [FHD] 1HD
+http://rtmp.one.by:1300/
+#EXTINF:-1, [FHD] 1RUS
+http://rtmp.one.by:2300/
+
+#EXTINF:-1, [HD][3D] HD Media 3D
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+
+#EXTINF:-1, [HD] 112 UA
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1, [HD] 1HD
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1, [HD] 7
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8
+#EXTINF:-1, [HD] CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1, [HD] RT (US)
+http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
+#EXTINF:-1, [HD] RT (UK)
+http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index2500.m3u8
+#EXTINF:-1, [HD] 6 zapeando 7
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1, [HD] MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1, [HD] neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1, [HD] TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1, [HD] CBSN
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1, [HD] Gamanoid
+rtmp://62.76.102.147:1935/live/gamanoid
+#EXTINF:-1, [HD] NEWSMAX TV
+http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8
+#EXTINF:-1, [HD] EP
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1, [HD] he♡rtv
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1, [HD] Tec TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:-1, [HD] WGN News Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1, [HD] ad sports 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1, [HD] ad sports 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1, [HD] Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1, [HD] KBS LIVE Dokdo
+http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/playlist.m3u8
+#EXTINF:-1, [HD] 드라마
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:-1, [HD] TV 조선
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1, [HD] 아시아경제TV
+http://111.118.21.79/etv1sb/phd385/playlist.m3u8
+#EXTINF:-1, [HD] 연합뉴스TV
+http://lgedge1.everyon.tv/lgetv1/phd1109/playlist.m3u8
+#EXTINF:-1, [HD] YTN
+http://lgedge1.everyon.tv/lgetv1/phd1110/playlist.m3u8
+#EXTINF:-1, [HD] YTN 라이프
+http://lgedge1.everyon.tv/lgetv1/phd1129/playlist.m3u8
+#EXTINF:-1, [HD] EDGE TV
+http://lgedge1.everyon.tv/lgetv1/phd1122/playlist.m3u8
+
+#EXTINF:-1, [600] FOX Life
+http://cdnworld.magictvbox.eu/live/live-sd/id_39_svga/index.m3u8
+#EXTINF:-1, [600] NAT GEO WILD
+http://cdnworld.magictvbox.eu/live/live-sd/id_62_svga/index.m3u8
+
+#EXTINF:-1, [586] 3abnkids.tv
+http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/master.m3u8
+
+#EXTINF:-1, [576] ABTO 24
+http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
+#EXTINF:-1, [576] C-SPAN1
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
+#EXTINF:-1, [576] C-SPAN2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+#EXTINF:-1, [576] C-SPAN3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
+#EXTINF:-1, [576] aMazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+#EXTINF:-1, [576] dream
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1, [576] France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1, [576] France 24 (FR)
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1, [576] France 24 (EN)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+#EXTINF:-1, [576] Kanal3
+http://hls.cdn.bg:2017/fls/kanal3.stream/playlist.m3u8
+#EXTINF:-1, [576] RT Doc
+http://cdn-01.bonus-tv.ru/btv/rtdoc/type/user/devname/LG-SmartTV/devid/LG-1469191659/eol/20200101T00/hash/ffea5a73940afa146f5411783313f1e76ae71a46/playlist.m3u8
+#EXTINF:-1, [576] SUPER HIT TV
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1, [576] TVE 3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
+#EXTINF:-1, [576] sky SPORTS 1
+http://exabytetv.zapto.org/exabytetv-esgratis/deporteseuropa/ZKORI-1011000111100110111110000010101-ExabyteTV/skysports1/visita-exabytetv.m3u8
+#EXTINF:-1, [576] sky SPORTS 3
+http://exabytetv.zapto.org/exabytetv-esgratis/deporteseuropa/ZKORI-1011000111100110111110000010101-ExabyteTV/skysports3/visita-exabytetv.m3u8
+
+#EXTINF:-1, [540] MVS Noticias
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:-1, [540] SHOPPING LIVE
+http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
+#EXTINF:-1, [540] TV 1000 Comedy HD
+http://cdnworld.magictvbox.eu/live/live-hd/id_43_qhd/index.m3u8
+#EXTINF:-1, [540] TV 1000 Megahit HD
+http://cdnworld.magictvbox.eu/live/live-hd/id_44_qhd/index.m3u8
+#EXTINF:-1, [540] TV 1000 Premium HD
+http://cdnworld.magictvbox.eu/live/live-hd/id_45_qhd/index.m3u8
+#EXTINF:-1, [540] National Geographic
+http://cdnworld.magictvbox.eu/live/live-hd/id_48_qhd/index.m3u8
+#EXTINF:-1, [540] BBC CBeebies
+http://178.33.237.97:1888/get.php?username=OkQfcpBn7O&password=jGvDZYzs1U&type=m3u
+
+#EXTINF:-1, [504] LALE
+http://stream.atr.ua/lale//live/index.m3u8
+
+#EXTINF:-1, [484] RCG1TV
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1, [480] Azteca noticias
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+#EXTINF:-1, [480] CABLENOTICIAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1, [480] las Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1, [480] Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1, [480] RT DOCUMENTARY
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+#EXTINF:-1, [480] TV5MONDE
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1, [480] Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1, [480] u colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1, [480] CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1, [480] Colosal TV
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+#EXTINF:-1, [480] E/I
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+#EXTINF:-1, [480] EL TIEMPO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1, [480] EJTV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+#EXTINF:-1, [480] Esperanza TV
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:-1, [480] KPHTHTV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1, [480] JUCE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+#EXTINF:-1, [480] LUXURY
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1, [480] NTD
+http://123.108.164.71/etv2/phd1058/playlist.m3u8
+#EXTINF:-1, [480] evine
+http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/layer1.m3u8
+#EXTINF:-1, [480] adn40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1, [480] RU TV
+http://live.rmg.cdnvideo.ru/rmg/rmg.sdp/playlist.m3u8
+#EXTINF:-1, [480] TELE MEDELLIN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1, [480] Tele Uno TV
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:-1, [480] Teleantiquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1, [480] Telecafe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1, [480] Telesur
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:-1, [480] The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-1, [480] Tv Moda
+http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
+#EXTINF:-1, [480] University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1, [480] VIASAT FILM ACTION
+http://37.187.252.222:8000/get.php?username=webtro3&password=OcgyupQDfP&type=m3u
+#EXTINF:-1, [480] HD1
+http://62.4.21.70:8000/get.php?username=123456789123&password=123456789123&type=m3u
+
+#EXTINF:-1, [432] RADIO MONTE CARLO TV
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1, [432] Virgin RADIO TV
+http://fms.105.net:1935/live/virgin1/.m3u8
+
+#EXTINF:-1, [426] MEXIQUENSE MEXICO
+http://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1/mexiquense.m3u8
+
+#EXTINF:-1, [406] UNA VOZ CON TODOS HD
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
+#EXTINF:-1, [406] UdeA Noticias TELEVISION
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1, [404] Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1, [404] Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:-1, [404] 6
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-b.m3u8
+#EXTINF:-1, [404] ANTENA 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-b.m3u8
+#EXTINF:-1, [404] Euro Sport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1, [404] radio TAORMINA TV
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1, [404] Sky TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1, [400] DW
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+#EXTINF:-1, [360] Al Jazeera (EN)
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1, [360] RTL
+http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:-1, [360] GALICIA
+http://media3.crtvg.es/live/tvge_2/chunklist_w2064014033.m3u8
+#EXTINF:-1, [360] PERDAS COMPA
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/chunklist.m3u8
+#EXTINF:-1, [360] EP VIVO
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8
+#EXTINF:-1, [360] Elektrika TV
+rtmp://rtmp.elektrika.cz/live/myStream.sdp
+#EXTINF:-1, [360] eitb.eus
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-1, [360] Euro News
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1, [360] m2otv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1, [360] PAC 12 NETWORK
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1, [360] PAC 12 OREGON
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1, [360] PAC 12 MOUNTAIN
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1, [360] Radio Capital
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1, [360] RETRO
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1, [360] Senal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1, [360] TV MAS
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1, [360] TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1, [360] tvi 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
+#EXTINF:-1, [360] mundo TUERCA TV
+rtmp://willax.mediastream.pe/vv_willax/livestream
+
+#EXTINF:-1, [352] Fresh TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:-1, [352] Rai 5
+http://stream12.rai.it/live/rai5.smil/master.m3u8
+#EXTINF:-1, [352] Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+
+#EXTINF:-1, [336] LevanteTV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/chunklist_w2012666292.m3u8
+
+#EXTINF:-1, [320] TDN
+http://exabytetv.zapto.org/exabytetv-esgratis/broadcast/ZKORI-1011000111100110111110000010101-ExabyteTV/aHR0cDovL3d3dy5taXBzcGxheWVyLmNvbS9Zb3VUVk9wMQ==/visita-exabytetv.m3u8
+#EXTINF:-1, [320] channel 5
+http://185.62.86.6:8081/hls/channel5.m3u8
+#EXTINF:-1, [320] channel 4
+http://185.62.86.6:8081/hls/channel4.m3u8
+#EXTINF:-1, [320] BBC TWO
+http://185.62.86.6:8081/hls/bbctwo.m3u8
+
+#EXTINF:-1, [288] Novi Sad 1
+rtsp://212.200.255.151/rtv1
+#EXTINF:-1, [288] QVC 1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:-1, [288] QVC 2
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:-1, [288] QVC 3
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+
+#EXTINF:-1, [286] Anime TV 1
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8monclovacaliente.m3u8
+
+#EXTINF:-1, [266] HSN 1
+http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
+
+#EXTINF:-1, [240] MEXICO LATAM
+mms://streaming.uanl.mx/canal53bandaancha/
+#EXTINF:-1, [240] Mexicali
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+#EXTINF:-1, [240] 79 Mar del Plata
+rtmp://painel.serveron.com.br:1935/8168/8168
+
+#EXTINF:-1, [216] marbelle
+http://cls.provideo.es/marbellatv/livestream/chunklist.m3u8
+
+#EXTINF:-1, [480] ETN
+http://edge2.everyon.tv/etv2sb/phd2/playlist.m3u8
+#EXTINF:-1, [480] Food TV
+http://edge1.everyon.tv/etv1sb/phd1015/playlist.m3u8
+#EXTINF:-1, [480] MOUNTAIN TV
+http://123.108.164.71/etv2sb/phd337/playlist.m3u8
+#EXTINF:-1, [480] MTN
+http://111.118.21.79/etv1sb/phd18/playlist.m3u8
+#EXTINF:-1, [480] OBS W
+http://111.118.21.79/etv1sb/phd3/playlist.m3u8
+#EXTINF:-1, [480] 부동산TV
+http://111.118.21.79/etv1sb/phd19/playlist.m3u8
+#EXTINF:-1, [480] TVis
+http://111.118.21.79/etv1sb/phd551/playlist.m3u8
+#EXTINF:-1, [480] tbs
+http://123.108.164.71/etv2sb/phd40/playlist.m3u8
+#EXTINF:-1, [480] 동아TV
+http://123.108.164.71/etv2sb/phd43/playlist.m3u8
+#EXTINF:-1, [480] Arte
+http://edge1.everyon.tv/etv1/phd35/playlist.m3u8
+#EXTINF:-1, [480] C`TIME
+http://edge2.everyon.tv:1935/etv2sb/phd21/HasBahCa.m3u8
+#EXTINF:-1, [480] CHANNEL A
+http://edge2.everyon.tv:1935/etv2sb/phd409/HasBahCa.m3u8
+#EXTINF:-1, [480] event TV
+http://edge2.everyon.tv:1935/etv2sb/phd389/HasBahCa.m3u8
+#EXTINF:-1, [480] FOOD TV
+http://edge1.everyon.tv/etv1sb/phd1015/chunklist_w734832299.m3u8
+#EXTINF:-1, [480] FTV
+http://edge2.everyon.tv/etv2/phd12/HasBahCa.m3u8
+#EXTINF:-1, [480] Kweather
+http://edge2.everyon.tv:1935/etv2sb/phd581/HasBahCa.m3u8
+#EXTINF:-1, [480] OBS
+http://edge2.everyon.tv:1935/etv2sb/phd1042/HasBahCa.m3u8
+#EXTINF:-1, [480] ONT
+http://edge2.everyon.tv:1935/etv2sb/phd30/HasBahCa.m3u8
+#EXTINF:-1, [480] REAL TV
+http://edge2.everyon.tv:1935/etv2sb/phd1065/HasBahCa.m3u8
+#EXTINF:-1, [480] tbs 시민의 방송
+http://edge2.everyon.tv:1935/etv2sb/phd40/HasBahCa.m3u8
+#EXTINF:-1, [480] tele NEVELA
+http://edge2.everyon.tv:1935/etv2sb/phd319/HasBahCa.m3u8
+#EXTINF:-1, [480] THE MOVIE
+http://edge2.everyon.tv:1935/etv2sb/phd8/HasBahCa.m3u8
+#EXTINF:-1, [480] TRENDY
+http://edge2.everyon.tv:1935/etv2sb/phd4/HasBahCa.m3u8
+#EXTINF:-1, [480] YTN SCIENCE
+http://edge2.everyon.tv:1935/etv2sb/phd863/HasBahCa.m3u8
+#EXTINF:-1, [480] 국회방송
+http://edge2.everyon.tv:1935/etv2sb/phd401/HasBahCa.m3u8
+#EXTINF:-1, [480] 대교 어린이 TV
+rtmp://edge1.everyon.tv/etv1sb/phd5
+#EXTINF:-1, [480] 농어촌방송
+http://edge2.everyon.tv:1935/etv2sb/phd1053/HasBahCa.m3u8
+#EXTINF:-1, [480] 롯데홈쇼핑
+http://edge2.everyon.tv:1935/etv2sb/phd707/HasBahCa.m3u8
+#EXTINF:-1, [480] 리빙 TV
+http://edge2.everyon.tv:1935/etv2sb/phd13/HasBahCa.m3u8
+#EXTINF:-1, [480] 상생방송
+http://edge2.everyon.tv:1935/etv2sb/phd38/HasBahCa.m3u8
+#EXTINF:-1, [480] 서울경제 TV
+http://edge2.everyon.tv:1935/etv2sb/phd22/HasBahCa.m3u8
+#EXTINF:-1, [480] 아이넷 TV
+http://edge2.everyon.tv:1935/etv2sb/phd263/HasBahCa.m3u8
+#EXTINF:-1, [480] 애니
+http://edge2.everyon.tv:1935/etv2sb/phd933/HasBahCa.m3u8
+#EXTINF:-1, [480] 육아방송
+http://edge2.everyon.tv:1935/etv2sb/phd42/HasBahCa.m3u8
+#EXTINF:-1, [480] 이데일리 TV
+http://edge2.everyon.tv:1935/etv2sb/phd23/HasBahCa.m3u8
+#EXTINF:-1, [480] 폴라리스
+http://edge2.everyon.tv:1935/etv2sb/phd14/HasBahCa.m3u8
+
+#EXTINF:-1, [400] EBS1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1, [400] EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1, [400] EBSe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1, [400] KCTV
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+#EXTINF:-1, [400] KCTV N
+http://122.202.129.136:1935/live/ch4/playlist.m3u8
+
+#EXTINF:-1, [360] tvN
+http://222.239.21.69/tvn/_definst_/449105246D714C5F2D83EB9257FF0088/chunklist_w2039417571.m3u
+#EXTINF:-1, [360] KBS WORLD
+rtmp://118.97.183.196/jhos//kbs
+#EXTINF:-1, [360] MBN
+http://mbn.flive.skcdn.com/mbn-pc/500k/chunklist.m3u8?wowzasessionid=0&tid=0
+
+#EXTINF:-1, [320] JEI English TV
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld15
+#EXTINF:-1, [320] 내외경제TV
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld639
+#EXTINF:-1, [320] 매일경제TV
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld725
+#EXTINF:-1, [320] 한국경제
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld26
+
+#EXTINF:-1, [270] KBS1
+rtmp://live2.kbs.gscdn.com/1tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTdBRjY4M0U5NDFEJmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9NUEzOEY0RDAwRDAyJnBhdGg9LzF0dl9ob21lL19kZWZpbnN0Xy8xdHZfaG9tZS5zdHJlYW0mZmlsZT0xdHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NDQ=
+#EXTINF:-1, [270] KBS2
+rtmp://live2.kbs.gscdn.com/2tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTg0RUU3NzhCNjU3Jmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9RTcxNkFCNUEyRjBCJnBhdGg9LzJ0dl9ob21lL19kZWZpbnN0Xy8ydHZfaG9tZS5zdHJlYW0mZmlsZT0ydHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NjM=
