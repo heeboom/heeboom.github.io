@@ -12,7 +12,18 @@
 
 console.log(content);
 var output = document.getElementById('result');
-output.innerHTML = content.data['Trips'][0]['Flights'];
+//output.innerHTML = content.data['Trips'][0]['Flights'];
+
+var i;
+var flights = content.data['Trips'][0]['Flights'];
+for (i = 0; i < flights.length; i++) {
+  if (flights[i]['DepartDateTime']=="06/01/2020 01:45"){
+    var x = flights[i]['BookingClassAvailList'].toString();
+    output.innerHTML = x;
+  }
+}
+//DepartDateTime
+//BookingClassAvailList
 
 </script>
 
