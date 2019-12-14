@@ -19,6 +19,7 @@ var flights = content.data['Trips'][0]['Flights'];
 for (i = 0; i < flights.length; i++) {
   if (flights[i]['DepartDateTime']=="06/01/2020 01:45"){
     var x = flights[i]['BookingClassAvailList'].toString();
+    x = x + " " + flights[i]['DepartDateTime'];
     output.innerHTML = x;
     console.log('inside');
   }
