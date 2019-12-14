@@ -19,14 +19,14 @@ var flights = content.data['Trips'][0]['Flights'];
 for (i = 0; i < flights.length; i++) {
   if (flights[i]['DepartDateTime']=="06/01/2020 01:45"){
     var x = flights[i]['BookingClassAvailList'].toString();
-    x = x + " " + flights[i]['DepartDateTime'];
+    x = x + " " + flights[i]['DepartDateTime'] + " " + flights[i]['OperatingCarrier'] + flights[i]['FlightNumber'];
     output.innerHTML = x;
     console.log('inside');
   }
 }
 //DepartDateTime
 //BookingClassAvailList
-
+//FlightNumber OperatingCarrier
 </script>
 
 </html>
