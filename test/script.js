@@ -26903,3 +26903,7 @@ var content = {
   },
   "errors": null
 }
+
+var output = document.getelementbyid('result');
+output.innerHTML = content.ststus;
+console.log(content);
