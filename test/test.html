@@ -41,8 +41,9 @@ var HttpClient = function() {
         aCallback(anHttpRequest.responseText);
     }
     //anHttpRequest.withCredentials = true;
-    anHttpRequest.setRequestHeader("Origin", 'www.united.com');
+
     anHttpRequest.open( "GET", aUrl, true );
+    anHttpRequest.setRequestHeader("Origin", 'www.united.com');
     anHttpRequest.send( null );
   }
 }
