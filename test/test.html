@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-  <script src="./script.js"></script>
+  <!-- <script src="./script.js"></script> -->
 
 </head>
 <div id="result"></div>
@@ -10,23 +10,51 @@
 <script>
 
 
-console.log(content);
-var output = document.getElementById('result');
+//console.log(content);
+//var output = document.getElementById('result');
 //output.innerHTML = content.data['Trips'][0]['Flights'];
 
-var i;
-var flights = content.data['Trips'][0]['Flights'];
-for (i = 0; i < flights.length; i++) {
-  if (flights[i]['DepartDateTime']=="06/01/2020 01:45"){
-    var x = flights[i]['BookingClassAvailList'].toString();
-    x = x + " " + flights[i]['DepartDateTime'] + " " + flights[i]['OperatingCarrier'] + flights[i]['FlightNumber'];
-    output.innerHTML = x;
-  }
-}
+// var i;
+// var flights = content.data['Trips'][0]['Flights'];
+// for (i = 0; i < flights.length; i++) {
+//   if (flights[i]['DepartDateTime']=="06/01/2020 01:45"){
+//     var x = flights[i]['BookingClassAvailList'].toString();
+//     x = x + " " + flights[i]['DepartDateTime'] + " " + flights[i]['OperatingCarrier'] + flights[i]['FlightNumber'];
+//     output.innerHTML = x;
+//   }
+// }
 //DepartDateTime
 //BookingClassAvailList
 //FlightNumber OperatingCarrier
 //<form action="/ual/en/ca/flight-search/book-a-flight" id="advancedSearchForm" method="post" novalidate="novalidate">
+//<form id="frm-site-search" class="site-search" action="https://www.united.com/web/en-US/apps/search/results.aspx" method="get" novalidate="novalidate">
+//https://www.united.com/ual/en/ca/flight-search/book-a-flight/results/awd?f=TPE&t=SIN&d=2020-06-02&EditSearchCartId=D4AADCAA-3869-44A7-9EF4-BA1142691944&tt=1&st=bestmatches&at=1&rm=1&act=2&cbm=-1&cbm2=-1&bcc=CA&sc=1&px=1&taxng=1&idx=1
+//https://www.united.com/ual/en/ca/flight-search/book-a-flight/results/rev?f=TPE&t=SIN&d=2020-06-02&EditSearchCartId=435662BF-D029-4F0E-96D3-975722383BC2&tt=1&st=bestmatches&cbm=-1&cbm2=-1&bcc=CA&sc=7&px=1&taxng=1&idx=1
+
+
+
+var HttpClient = function() {
+  this.get = function(aUrl, aCallback) {
+    var anHttpRequest = new XMLHttpRequest();
+    anHttpRequest.onreadystatechange = function() {
+      if (anHttpRequest.readyState == 4 && anHttpRequest.status == 200)
+        aCallback(anHttpRequest.responseText);
+    }
+    anHttpRequest.open( "GET", aUrl, true );
+    anHttpRequest.send( null );
+  }
+}
+
+var theurl='https://www.united.com/ual/en/US/flight-search/book-a-flight/results/awd?f=YYZ&t=TPE&d=2020-06-01&tt=1&at=1&sc=7&act=2&px=1&taxng=1&newHP=True&idx=1';
+var client = new HttpClient();
+    client.get(theurl, function(response) {
+    //var response1 = JSON.parse(response);
+    //alert(response);
+    console.log(response);
+
+
+
+
 </script>
 
 </html>
