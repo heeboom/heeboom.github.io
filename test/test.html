@@ -40,7 +40,7 @@ var HttpClient = function() {
       if (anHttpRequest.readyState == 4 && anHttpRequest.status == 200)
         aCallback(anHttpRequest.responseText);
     }
-    //anHttpRequest.withCredentials = true;
+    anHttpRequest.withCredentials = true;
     var origin = "https://www.united.com/ual/en/us/flight-search/book-a-flight/";
     var u = origin.concat(aUrl)
     anHttpRequest.open( "GET", u, true );
@@ -49,7 +49,7 @@ var HttpClient = function() {
   }
 }
 
-var theurl='https://www.united.com/ual/en/US/flight-search/book-a-flight/results/awd?f=YYZ&t=TPE&d=2020-06-01&tt=1&at=1&sc=7&act=2&px=1&taxng=1&newHP=True&idx=1';
+var theurl='https://www.united.com/ual/en/us/flight-search/book-a-flight/results/awd?f=YYZ&t=TPE&d=2020-06-01&tt=1&st=bestmatches&at=1&rm=1&act=2&cbm=-1&cbm2=-1&sc=1&px=1&taxng=1&idx=1';
 var client = new HttpClient();
     client.get(theurl, function(response) {
     //var response1 = JSON.parse(response);
