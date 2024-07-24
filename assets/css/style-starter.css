@@ -2736,7 +2736,7 @@
   font-size: 80px;
   line-height: 90px;
   color: #fff;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: 700; }
 
 .w3l-hero-headers-9 .banner-text {
@@ -11846,7 +11846,8 @@ body,
 html {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; }
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+ Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; }
 
 * {
   box-sizing: border-box; }
