@@ -2463,7 +2463,7 @@
   padding: 0;
   font-size: 32px;
   font-weight: 600;
-  text-transform: lowercase;
+  text-transform: none;
   color: #fff; }
 
 .w3l-header-4 .navbar .navbar-brand span.fa {
@@ -2736,7 +2736,7 @@
   font-size: 80px;
   line-height: 90px;
   color: #fff;
-  text-transform: lowercase;
+  text-transform: none;
   font-weight: 700; }
 
 .w3l-hero-headers-9 .banner-text {
